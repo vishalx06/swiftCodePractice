@@ -11,6 +11,18 @@
 		67E9678C2BC570E800A620C9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E9678B2BC570E800A620C9 /* ContentView.swift */; };
 		67E9678E2BC570E900A620C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67E9678D2BC570E900A620C9 /* Assets.xcassets */; };
 		67E967912BC570E900A620C9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67E967902BC570E900A620C9 /* Preview Assets.xcassets */; };
+		67E967982BC574A700A620C9 /* TabViewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E967972BC574A700A620C9 /* TabViewBootCamp.swift */; };
+		67E9679A2BC57AAF00A620C9 /* NewTabViewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E967992BC57AAF00A620C9 /* NewTabViewBootCamp.swift */; };
+		67E9679C2BC6C37A00A620C9 /* IfGuardLetBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E9679B2BC6C37A00A620C9 /* IfGuardLetBootCamp.swift */; };
+		67E9679E2BC6D07100A620C9 /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E9679D2BC6D07100A620C9 /* TapGestureBootcamp.swift */; };
+		67E967A02BC6FAA900A620C9 /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E9679F2BC6FAA900A620C9 /* ModelBootcamp.swift */; };
+		67E967A22BC7153600A620C9 /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E967A12BC7153600A620C9 /* ViewModelBootcamp.swift */; };
+		67E967A42BC8014100A620C9 /* EnviromentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E967A32BC8014100A620C9 /* EnviromentObjectBootcamp.swift */; };
+		67E967A62BC80CB700A620C9 /* EnviromentObjectBootcampNOTUSINGENVVAR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E967A52BC80CB700A620C9 /* EnviromentObjectBootcampNOTUSINGENVVAR.swift */; };
+		67E967A82BC817FD00A620C9 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E967A72BC817FC00A620C9 /* AppStorageBootcamp.swift */; };
+		67E967AB2BC84F0E00A620C9 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E967AA2BC84F0E00A620C9 /* IntroView.swift */; };
+		67E967AD2BC851C800A620C9 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E967AC2BC851C800A620C9 /* OnboardingView.swift */; };
+		67E967AF2BC9ABE200A620C9 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E967AE2BC9ABE200A620C9 /* ProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,18 @@
 		67E9678B2BC570E800A620C9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		67E9678D2BC570E900A620C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		67E967902BC570E900A620C9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		67E967972BC574A700A620C9 /* TabViewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootCamp.swift; sourceTree = "<group>"; };
+		67E967992BC57AAF00A620C9 /* NewTabViewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTabViewBootCamp.swift; sourceTree = "<group>"; };
+		67E9679B2BC6C37A00A620C9 /* IfGuardLetBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfGuardLetBootCamp.swift; sourceTree = "<group>"; };
+		67E9679D2BC6D07100A620C9 /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
+		67E9679F2BC6FAA900A620C9 /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
+		67E967A12BC7153600A620C9 /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
+		67E967A32BC8014100A620C9 /* EnviromentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnviromentObjectBootcamp.swift; sourceTree = "<group>"; };
+		67E967A52BC80CB700A620C9 /* EnviromentObjectBootcampNOTUSINGENVVAR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnviromentObjectBootcampNOTUSINGENVVAR.swift; sourceTree = "<group>"; };
+		67E967A72BC817FC00A620C9 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
+		67E967AA2BC84F0E00A620C9 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		67E967AC2BC851C800A620C9 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		67E967AE2BC9ABE200A620C9 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +79,9 @@
 				67E9678B2BC570E800A620C9 /* ContentView.swift */,
 				67E9678D2BC570E900A620C9 /* Assets.xcassets */,
 				67E9678F2BC570E900A620C9 /* Preview Content */,
+				67E967972BC574A700A620C9 /* TabViewBootCamp.swift */,
+				67E967A72BC817FC00A620C9 /* AppStorageBootcamp.swift */,
+				67E967A92BC84E6300A620C9 /* OnboardingViews */,
 			);
 			path = swiftpractice;
 			sourceTree = "<group>";
@@ -63,8 +90,25 @@
 			isa = PBXGroup;
 			children = (
 				67E967902BC570E900A620C9 /* Preview Assets.xcassets */,
+				67E967992BC57AAF00A620C9 /* NewTabViewBootCamp.swift */,
+				67E9679B2BC6C37A00A620C9 /* IfGuardLetBootCamp.swift */,
+				67E9679D2BC6D07100A620C9 /* TapGestureBootcamp.swift */,
+				67E9679F2BC6FAA900A620C9 /* ModelBootcamp.swift */,
+				67E967A12BC7153600A620C9 /* ViewModelBootcamp.swift */,
+				67E967A32BC8014100A620C9 /* EnviromentObjectBootcamp.swift */,
+				67E967A52BC80CB700A620C9 /* EnviromentObjectBootcampNOTUSINGENVVAR.swift */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		67E967A92BC84E6300A620C9 /* OnboardingViews */ = {
+			isa = PBXGroup;
+			children = (
+				67E967AA2BC84F0E00A620C9 /* IntroView.swift */,
+				67E967AC2BC851C800A620C9 /* OnboardingView.swift */,
+				67E967AE2BC9ABE200A620C9 /* ProfileView.swift */,
+			);
+			path = OnboardingViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,7 +181,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				67E967A02BC6FAA900A620C9 /* ModelBootcamp.swift in Sources */,
+				67E9679C2BC6C37A00A620C9 /* IfGuardLetBootCamp.swift in Sources */,
+				67E9679A2BC57AAF00A620C9 /* NewTabViewBootCamp.swift in Sources */,
+				67E967A22BC7153600A620C9 /* ViewModelBootcamp.swift in Sources */,
+				67E9679E2BC6D07100A620C9 /* TapGestureBootcamp.swift in Sources */,
+				67E967AB2BC84F0E00A620C9 /* IntroView.swift in Sources */,
+				67E967982BC574A700A620C9 /* TabViewBootCamp.swift in Sources */,
+				67E967A82BC817FD00A620C9 /* AppStorageBootcamp.swift in Sources */,
 				67E9678C2BC570E800A620C9 /* ContentView.swift in Sources */,
+				67E967A62BC80CB700A620C9 /* EnviromentObjectBootcampNOTUSINGENVVAR.swift in Sources */,
+				67E967A42BC8014100A620C9 /* EnviromentObjectBootcamp.swift in Sources */,
+				67E967AD2BC851C800A620C9 /* OnboardingView.swift in Sources */,
+				67E967AF2BC9ABE200A620C9 /* ProfileView.swift in Sources */,
 				67E9678A2BC570E800A620C9 /* swiftpracticeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
