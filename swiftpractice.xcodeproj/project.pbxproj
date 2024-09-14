@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		676846CE2C90B56500F03E30 /* ViewModelBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676846CD2C90B56500F03E30 /* ViewModelBootCamp.swift */; };
+		676EFCDE2C839FE500D3FFF7 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676EFCDD2C839FE500D3FFF7 /* ListView.swift */; };
+		676EFCE02C86249E00D3FFF7 /* ActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676EFCDF2C86249E00D3FFF7 /* ActionButton.swift */; };
+		676EFCE22C8C38F500D3FFF7 /* TextFieldBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676EFCE12C8C38F500D3FFF7 /* TextFieldBootCamp.swift */; };
+		676EFCE42C8C4CFC00D3FFF7 /* TextEditorBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676EFCE32C8C4CFC00D3FFF7 /* TextEditorBootCamp.swift */; };
+		676EFCE82C8C7E9800D3FFF7 /* IfLetGuardBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676EFCE72C8C7E9800D3FFF7 /* IfLetGuardBootCamp.swift */; };
+		676EFCEA2C8E137900D3FFF7 /* ModelBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676EFCE92C8E137800D3FFF7 /* ModelBootCamp.swift */; };
 		67E9678A2BC570E800A620C9 /* swiftpracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E967892BC570E800A620C9 /* swiftpracticeApp.swift */; };
 		67E9678C2BC570E800A620C9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E9678B2BC570E800A620C9 /* ContentView.swift */; };
 		67E9678E2BC570E900A620C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67E9678D2BC570E900A620C9 /* Assets.xcassets */; };
@@ -26,6 +33,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		676846CD2C90B56500F03E30 /* ViewModelBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootCamp.swift; sourceTree = "<group>"; };
+		676EFCDD2C839FE500D3FFF7 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		676EFCDF2C86249E00D3FFF7 /* ActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionButton.swift; sourceTree = "<group>"; };
+		676EFCE12C8C38F500D3FFF7 /* TextFieldBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBootCamp.swift; sourceTree = "<group>"; };
+		676EFCE32C8C4CFC00D3FFF7 /* TextEditorBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootCamp.swift; sourceTree = "<group>"; };
+		676EFCE72C8C7E9800D3FFF7 /* IfLetGuardBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootCamp.swift; sourceTree = "<group>"; };
+		676EFCE92C8E137800D3FFF7 /* ModelBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootCamp.swift; sourceTree = "<group>"; };
 		67E967862BC570E800A620C9 /* swiftpractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftpractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67E967892BC570E800A620C9 /* swiftpracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftpracticeApp.swift; sourceTree = "<group>"; };
 		67E9678B2BC570E800A620C9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -78,10 +92,17 @@
 				67E967892BC570E800A620C9 /* swiftpracticeApp.swift */,
 				67E9678B2BC570E800A620C9 /* ContentView.swift */,
 				67E9678D2BC570E900A620C9 /* Assets.xcassets */,
-				67E9678F2BC570E900A620C9 /* Preview Content */,
 				67E967972BC574A700A620C9 /* TabViewBootCamp.swift */,
 				67E967A72BC817FC00A620C9 /* AppStorageBootcamp.swift */,
+				676EFCDD2C839FE500D3FFF7 /* ListView.swift */,
+				67E9678F2BC570E900A620C9 /* Preview Content */,
 				67E967A92BC84E6300A620C9 /* OnboardingViews */,
+				676EFCDF2C86249E00D3FFF7 /* ActionButton.swift */,
+				676EFCE12C8C38F500D3FFF7 /* TextFieldBootCamp.swift */,
+				676EFCE32C8C4CFC00D3FFF7 /* TextEditorBootCamp.swift */,
+				676EFCE72C8C7E9800D3FFF7 /* IfLetGuardBootCamp.swift */,
+				676EFCE92C8E137800D3FFF7 /* ModelBootCamp.swift */,
+				676846CD2C90B56500F03E30 /* ViewModelBootCamp.swift */,
 			);
 			path = swiftpractice;
 			sourceTree = "<group>";
@@ -183,15 +204,22 @@
 			files = (
 				67E967A02BC6FAA900A620C9 /* ModelBootcamp.swift in Sources */,
 				67E9679C2BC6C37A00A620C9 /* IfGuardLetBootCamp.swift in Sources */,
+				676EFCDE2C839FE500D3FFF7 /* ListView.swift in Sources */,
 				67E9679A2BC57AAF00A620C9 /* NewTabViewBootCamp.swift in Sources */,
 				67E967A22BC7153600A620C9 /* ViewModelBootcamp.swift in Sources */,
 				67E9679E2BC6D07100A620C9 /* TapGestureBootcamp.swift in Sources */,
 				67E967AB2BC84F0E00A620C9 /* IntroView.swift in Sources */,
+				676EFCE02C86249E00D3FFF7 /* ActionButton.swift in Sources */,
+				676846CE2C90B56500F03E30 /* ViewModelBootCamp.swift in Sources */,
 				67E967982BC574A700A620C9 /* TabViewBootCamp.swift in Sources */,
 				67E967A82BC817FD00A620C9 /* AppStorageBootcamp.swift in Sources */,
 				67E9678C2BC570E800A620C9 /* ContentView.swift in Sources */,
 				67E967A62BC80CB700A620C9 /* EnviromentObjectBootcampNOTUSINGENVVAR.swift in Sources */,
+				676EFCEA2C8E137900D3FFF7 /* ModelBootCamp.swift in Sources */,
+				676EFCE22C8C38F500D3FFF7 /* TextFieldBootCamp.swift in Sources */,
 				67E967A42BC8014100A620C9 /* EnviromentObjectBootcamp.swift in Sources */,
+				676EFCE82C8C7E9800D3FFF7 /* IfLetGuardBootCamp.swift in Sources */,
+				676EFCE42C8C4CFC00D3FFF7 /* TextEditorBootCamp.swift in Sources */,
 				67E967AD2BC851C800A620C9 /* OnboardingView.swift in Sources */,
 				67E967AF2BC9ABE200A620C9 /* ProfileView.swift in Sources */,
 				67E9678A2BC570E800A620C9 /* swiftpracticeApp.swift in Sources */,
